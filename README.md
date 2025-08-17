@@ -26,10 +26,10 @@ This project includes:
    - `imu_data_reader.py` + your merging logic
    - Produces `Star_P11_S1.npy`, etc.
 
-4. **Subtitle Generation (Optional)**
+4. **Subtitle Generation**
    - `subtitle_generator.py` converts CSV → `.srt`
 
-5. **Final Video (Optional)**
+5. **Final Video**
    - `ffmpeg` or other tool to burn `.srt` into video
 
 ---
