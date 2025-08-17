@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Environment or dependency files
+env/
+venv/
+*.egg-info/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Output video files
+*.mp4
+*.avi
+*.mov
+
+# Subtitle files (optional)
+*.srt
+
+# Sensor and intermediate data (optional to ignore if large)
+*.npy
+*.csv
+*.xlsx
+
+# Logs or temp files
+*.log
+*.tmp
