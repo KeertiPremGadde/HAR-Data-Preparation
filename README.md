@@ -14,7 +14,7 @@ This project focuses on the preparation and annotation of synchronized **wearabl
 
 1. **IMU Sensor Data**
 
-   * Collected from **wearable devices** placed on participants (e.g., arms, legs).
+   * Collected from **wearable devices** placed on participants arms.
    * Sensors capture:
      * Accelerometer (A_x, A_y, A_z)
      * Gyroscope (G_x, G_y, G_z)
